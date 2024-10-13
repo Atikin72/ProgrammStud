@@ -1,0 +1,14 @@
+E:\Code\Work\Lesson9\obj\Debug\net7.0\Lesson9.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\Work\Lesson9\obj\Debug\net7.0\Lesson9.AssemblyInfoInputs.cache
+E:\Code\Work\Lesson9\obj\Debug\net7.0\Lesson9.AssemblyInfo.cs
+E:\Code\Work\Lesson9\obj\Debug\net7.0\Lesson9.csproj.CoreCompileInputs.cache
+E:\Code\Work\Lesson9\bin\Debug\net7.0\Lesson9.exe
+E:\Code\Work\Lesson9\bin\Debug\net7.0\Lesson9.deps.json
+E:\Code\Work\Lesson9\bin\Debug\net7.0\Lesson9.runtimeconfig.json
+E:\Code\Work\Lesson9\bin\Debug\net7.0\Lesson9.dll
+E:\Code\Work\Lesson9\bin\Debug\net7.0\Lesson9.pdb
+E:\Code\Work\Lesson9\obj\Debug\net7.0\Lesson9.dll
+E:\Code\Work\Lesson9\obj\Debug\net7.0\refint\Lesson9.dll
+E:\Code\Work\Lesson9\obj\Debug\net7.0\Lesson9.pdb
+E:\Code\Work\Lesson9\obj\Debug\net7.0\Lesson9.genruntimeconfig.cache
+E:\Code\Work\Lesson9\obj\Debug\net7.0\ref\Lesson9.dll

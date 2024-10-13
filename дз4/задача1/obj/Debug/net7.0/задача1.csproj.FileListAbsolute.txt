@@ -1,0 +1,14 @@
+E:\Code\Work\дз4\задача1\bin\Debug\net7.0\задача1.exe
+E:\Code\Work\дз4\задача1\bin\Debug\net7.0\задача1.deps.json
+E:\Code\Work\дз4\задача1\bin\Debug\net7.0\задача1.runtimeconfig.json
+E:\Code\Work\дз4\задача1\bin\Debug\net7.0\задача1.dll
+E:\Code\Work\дз4\задача1\bin\Debug\net7.0\задача1.pdb
+E:\Code\Work\дз4\задача1\obj\Debug\net7.0\задача1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\Work\дз4\задача1\obj\Debug\net7.0\задача1.AssemblyInfoInputs.cache
+E:\Code\Work\дз4\задача1\obj\Debug\net7.0\задача1.AssemblyInfo.cs
+E:\Code\Work\дз4\задача1\obj\Debug\net7.0\задача1.csproj.CoreCompileInputs.cache
+E:\Code\Work\дз4\задача1\obj\Debug\net7.0\задача1.dll
+E:\Code\Work\дз4\задача1\obj\Debug\net7.0\refint\задача1.dll
+E:\Code\Work\дз4\задача1\obj\Debug\net7.0\задача1.pdb
+E:\Code\Work\дз4\задача1\obj\Debug\net7.0\задача1.genruntimeconfig.cache
+E:\Code\Work\дз4\задача1\obj\Debug\net7.0\ref\задача1.dll
